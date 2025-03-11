@@ -1,3 +1,7 @@
+<html>
+<head>
+<title>The University of Cambodia</title>
+</head>
 <body>
 
 <h1>The University of Cambodia</h1>
@@ -9,3 +13,5 @@
 width="307" height="307">
 <p>UC Copyright@2025 Tes Oun PanhaRotha Mony</p>
 </html>
+
+
