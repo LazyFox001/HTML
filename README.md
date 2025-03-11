@@ -1,5 +1,3 @@
-<html>
-</head>
 <body>
 
 <h1>The University of Cambodia</h1>
