@@ -1,7 +1,4 @@
-<html>
-<head>
-<title>The University of Cambodia</title>
-</head>
+
 <body>
 
 <h1>The University of Cambodia</h1>
